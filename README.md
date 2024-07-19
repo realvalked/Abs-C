@@ -13,6 +13,8 @@ Or simply run the binary!
 Add your user to the input group
 ```
 sudo gpasswd -a user input
+OR
+sudo useradd -g user input
 ```
 
 Place abs-c.ini into ~/.config/
