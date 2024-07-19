@@ -10,6 +10,11 @@ Or simply run the binary!
 
 ## Configuration
 
+Add your user to the input group
+```
+sudo gpasswd -a user input
+```
+
 Place abs-c.ini into ~/.config/
 
 ### Config options
